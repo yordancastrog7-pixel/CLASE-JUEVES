@@ -97,16 +97,6 @@ a las normativas locales y garantizar su funcionamiento eficiente.
 -   **Pruebas de proyectos:** Pruebas exhaustivas son clave para
     alcanzar los objetivos.
 
-------------------------------------------------------------------------
 
-# Conclusión
 
-La expansión en Centroamérica es un **proyecto de alta prioridad** con
-desafíos únicos en cada país:\
-- Adaptación normativa.\
-- Implementación de verificación robusta.\
-- Mejora de la seguridad.\
-- Entrega puntual de reportes.
 
-El éxito dependerá de la **colaboración entre áreas**, un **enfoque
-riguroso en las pruebas** y la **constante adaptación a cada país**.
