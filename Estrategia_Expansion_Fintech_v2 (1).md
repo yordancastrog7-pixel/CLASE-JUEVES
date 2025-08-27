@@ -3,9 +3,11 @@
 ## Integrantes : 
 - Yordan Castro Guerrero
 - Stiven
+__________________________________________________________________________________
   
 - **Area:** Operaciones
 - **Cargo:** Especialista en Implementación y Configuración de Sistemas de Pagos
+____________________________________________________________________________________
 
 ## Objetivo 1 – Implementaciones exitosas
 **Implementar sistemas de pago para al menos 20 nuevos clientes en Costa Rica** durante los primeros 6 meses, asegurando una configuración completa dentro de los plazos estimados (2–6 semanas por cliente) y con una tasa de éxito de implementación ≥ 95% (sin retrabajos mayores).  
