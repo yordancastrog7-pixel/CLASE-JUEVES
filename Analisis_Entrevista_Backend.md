@@ -1,7 +1,7 @@
 # Integrantes
 
 -   Yordan Castro Guerrero
--   Steven
+-   Steven Valencia
 
 -   A continuacion adjunto video de entrevista para su analisis:
 
@@ -26,7 +26,6 @@ objetivos de crecimiento.
 
 # Informe de Sesión Informativa: Expansión de Backend en Centroamérica
 
-**Fecha:** 26 de octubre de 2023\
 **Asunto:** Revisión de la estrategia de expansión de backend en Costa
 Rica, Guatemala y Panamá.\
 **Participantes:** Jordan (Moderador), Equipo de Desarrollo Backend\
