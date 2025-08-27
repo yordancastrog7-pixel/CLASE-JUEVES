@@ -3,6 +3,10 @@
 -   Yordan Castro Guerrero
 -   Steven
 
+-   A continuacion adjunto video de entrevista para su analisis:
+
+https://www.flexclip.com/es/share/72047673958e3f6393b08f42d2f0029faf8705e.html 
+
 ------------------------------------------------------------------------
 
 # Resumen Ejecutivo
