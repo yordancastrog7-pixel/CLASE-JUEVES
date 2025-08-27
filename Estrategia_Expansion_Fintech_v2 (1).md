@@ -3,7 +3,7 @@
 ## Integrantes : 
 - Yordan Castro Guerrero
 - Stiven
-- 
+  
 ### Objetivo de Fintech Verde Colombia:
 
 ## Objetivo 1 – Implementaciones exitosas
