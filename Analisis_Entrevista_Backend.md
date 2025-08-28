@@ -1,9 +1,6 @@
-# Integrantes
+# Analisis Entrevista Desarrollador Backend
 
--   Yordan Castro Guerrero
--   Steven Valencia
-  
-------------------------------------------------------------------------
+-----------------------------------------------------------------------
 
 -   A continuacion adjunto video de entrevista para su analisis:
 
@@ -17,8 +14,9 @@ https://notebooklm.google.com/notebook/f019c93c-84b5-4430-89e4-5f8c81b95ded?auth
 
 ------------------------------------------------------------------------
 
-
-
+## Integrantes
+-   Yordan Castro Guerrero
+-   Steven Valencia
 
 
 
